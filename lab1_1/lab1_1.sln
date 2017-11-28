@@ -19,6 +19,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "homework2.1", "homework2.1\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "homework2.2", "homework2.2\homework2.2.vcxproj", "{0CEE892D-59AF-4E1D-BEE8-3248024BB211}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab3_1", "lab3_1\lab3_1.vcxproj", "{EDBBEBDE-41B8-4E98-B757-71DA92D1F87C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab3_2", "lab3_2\lab3_2.vcxproj", "{E2F9023A-34E0-4C93-85CD-2E21E3CDC59B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -61,6 +65,14 @@ Global
 		{0CEE892D-59AF-4E1D-BEE8-3248024BB211}.Debug|Win32.Build.0 = Debug|Win32
 		{0CEE892D-59AF-4E1D-BEE8-3248024BB211}.Release|Win32.ActiveCfg = Release|Win32
 		{0CEE892D-59AF-4E1D-BEE8-3248024BB211}.Release|Win32.Build.0 = Release|Win32
+		{EDBBEBDE-41B8-4E98-B757-71DA92D1F87C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EDBBEBDE-41B8-4E98-B757-71DA92D1F87C}.Debug|Win32.Build.0 = Debug|Win32
+		{EDBBEBDE-41B8-4E98-B757-71DA92D1F87C}.Release|Win32.ActiveCfg = Release|Win32
+		{EDBBEBDE-41B8-4E98-B757-71DA92D1F87C}.Release|Win32.Build.0 = Release|Win32
+		{E2F9023A-34E0-4C93-85CD-2E21E3CDC59B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E2F9023A-34E0-4C93-85CD-2E21E3CDC59B}.Debug|Win32.Build.0 = Debug|Win32
+		{E2F9023A-34E0-4C93-85CD-2E21E3CDC59B}.Release|Win32.ActiveCfg = Release|Win32
+		{E2F9023A-34E0-4C93-85CD-2E21E3CDC59B}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
