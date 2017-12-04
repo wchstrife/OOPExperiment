@@ -27,6 +27,15 @@
     <ClInclude Include="CPU.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="RAM.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="cd_ROM.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Computer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -36,6 +45,15 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="CPU.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RAM.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cd_ROM.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Computer.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

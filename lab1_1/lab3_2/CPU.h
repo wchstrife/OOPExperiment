@@ -1,6 +1,4 @@
-#include <iostream>
-
-using namespace std;
+#pragma once
 
 class CPU
 {
@@ -10,16 +8,14 @@ private:
 	float voltage;
 
 public:
-	CPU(enum CPU_Rank cpu_rank, int fre, float v){
-		rank = cpu_rank;
-		frequency = fre;
-		voltage = v;
-	}
+	CPU(CPU_Rank cpu_rank, int fre, float v);
 
-	void run(){
-	}
+	void run();
 
-	void stop(){
-	}
+	void stop();
 
-}
+	~CPU(void);
+
+	CPU(void);
+
+};
