@@ -3,7 +3,7 @@
 
 using namespace std;
 
-CPU::CPU(enum CPU_Rank cpu_rank, int fre, float v)
+CPU::CPU(CPU_Rank cpu_rank, int fre, float v)
 {
 	rank = cpu_rank;
 	frequency = fre;

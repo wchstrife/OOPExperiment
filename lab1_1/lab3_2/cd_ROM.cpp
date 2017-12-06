@@ -2,7 +2,7 @@
 #include "cd_ROM.h"
 
 
-cd_ROM::cd_ROM(enum InterfaceType x1, enum InstallationMethod x2, int x3)
+cd_ROM::cd_ROM(InterfaceType x1, InstallationMethod x2, int x3)
 {
 	interfaceType = x1;
 	installMethod = x2;
